@@ -1,2 +1,2 @@
 # heart_disease_project
- Analysis of heart disease dataset
+ An analysis of the heart disease dataset found on Kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
